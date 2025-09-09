@@ -1,0 +1,19 @@
+body {
+    background: black;
+    color: black; 
+}
+table{
+padding: 20px; 
+border: 20px groove #ffffff;
+}
+tr{
+font-size: x-large; 
+background: cyan;
+font-decoration: bold; 
+}
+td {
+font-size: x-large; 
+font-decoration: italic; }
+h1{
+background: black;
+}
